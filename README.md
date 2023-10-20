@@ -1,7 +1,7 @@
 # 100-Phones: A Large VI-SLAM Dataset for Augmented Reality Towards Mass Deployment on Mobile Phones
 In this work, we propose 100-phones, a large VI-SLAM dataset consisting of 350 sequences collected by 100 different models of phones. The sensor characteristics among these 100 phone models vary greatly, posing unprecedented challenges for VI-SLAM methods. 
 
-<video src="./assets/100-Phones.mp4"></video>
+[<video src="./assets/100-Phones.mp4"></video>](https://gist.github.com/lemonlikelihood/5a2fb4e19dfca0bb8ded4d34062f0e58)
 
 ## Dataset format
 
